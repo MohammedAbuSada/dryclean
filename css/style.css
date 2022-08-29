@@ -1,0 +1,289 @@
+.section-1 {
+    background-image: url(../img/sction.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    z-index: 0;
+    position: relative;
+}
+.headre{
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    z-index: 0;
+    position: relative;
+}
+.t_d{
+    color:#000000;
+}
+.bg1{
+    background-image: url(../img/Rectangle13980.svg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.bg2{
+    background-image: url(img/Rectangle13979.svg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.bg3{
+    background-image: url(img/Rectangle13978.svg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
+.a img {
+    margin: -12px;
+    width: 170px;
+    border-radius: 8%;
+}
+
+.a-footer img {
+    margin: -20px;
+    width: 110px;
+    border-radius: 8%;
+}
+
+.color-item {
+    color: #4A1714;
+    border-color: #4A1714;
+}
+
+.color-item i {
+    border-radius: 5px;
+    padding: 6px;
+    color: #ffffff;
+    background-color: #4A1714;
+}
+
+.color-yallow {
+    color: #C89B2C;
+    border-color: #C89B2C;
+}
+
+.color-bg {
+    color: #ffffff;
+    background-color: #C89B2C;
+}
+
+
+.row-pr-2 img {
+    width: 5.4rem;
+}
+
+.logo-2 {
+    width: 250px;
+    height: 300px;
+
+}
+
+.div_border {
+    border-radius: 20px;
+    border: solid rgba(255, 255, 255, 0.399);
+    text-align: center;
+    width: 250px;
+    padding: 11px;
+}
+
+/* - 3 -*/
+.content {
+    position: relative;
+}
+
+.s {
+    position: relative;
+    padding-top: 60px;
+}
+
+.s .card img {
+    text-align: center;
+    block-size: 70px;
+}
+
+.s .card .col-lg-3 div {
+    padding: 10px;
+    height: 140px;
+    border-radius: 20px;
+    border: #C5C5C5 0.5px solid;
+    text-align: center;
+}
+
+.img-3 {
+    background-color: #4A1714;
+    position: absolute;
+    width: 890px;
+    height: 450px;
+    border-radius: 20px;
+}
+
+.img-3 img {
+    position: absolute;
+    background-size: cover;
+    border-radius: inherit;
+    width: inherit;
+    height: inherit;
+    opacity: 30%;
+}
+
+
+/*part3*/
+.card {
+    border: none !important;
+    /* box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px; */
+
+}
+
+.send-color {
+    width: 100px;
+    color: white;
+    background-color: #C89B2C;
+}
+
+.card-clinet {
+    padding: 10px 25px;
+    position: relative;
+    font-size: 14px;
+    width: 250px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-clinet img {
+    width: 125px;
+    height: 130px;
+}
+
+
+
+.img-lay1{
+    position: absolute;
+    z-index: 0;
+}
+
+.div-lay2{
+    position: relative;
+    background-color: #4A1714;
+    background-size: cover;
+    border-radius: 20px;
+    height: 80vh;
+} 
+
+.bg-img-lay3 {
+    padding: 0;
+    height: inherit;
+    background-size: cover;
+    opacity: 40%; 
+}
+
+.lay4{
+    color: white;
+    position: relative;
+}
+.lay4 .text-center span{
+    color: #4A1714;
+}
+.bg-gary {
+    border-radius: 100px 100px 30px 30px;
+    background-color: #EEEEEE;
+    border: solid #EEEEEE;
+    width: 193px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+
+.accordion {
+    padding-top: 23px;
+    margin: 20px;
+    width: 1030px;
+}
+
+.accordion-item button {
+    border: 0.5px solid rgba(172, 172, 172, 0.341);
+}
+
+.borderd {
+    border-radius: 20px;
+    border: 0.9px solid #aeaeaeb8;
+    height: 530px;
+}
+
+.footer {
+    color: white;
+    background-color: #131D24;
+    border-radius: 20px 20px 0px 0px;
+    overflow: hidden;
+    position: relative;
+}
+
+.nav-img a img {
+    margin: -12px;
+    width: 7rem;
+    border-radius: 8%;
+}
+
+.col p,
+.col span {
+    font-size: 14px;
+}
+
+/*part3 */
+.d-lg-flex .d-md-flex .card {
+    width: 220px;
+    height: 310px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 25px;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.d-lg-flex .d-md-flex .card2 {
+    width: 290px;
+     height: 215px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 25px;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+
+.card .fab.fa-envira,
+.fas.fa-cut,
+.fas.fa-people-carry {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card .h4 {
+    font-weight: 700;
+}
+.card2{
+    width: 270px;
+    height: 225px;
+}
