@@ -1,5 +1,9 @@
+ .navbar-nav .nav-link {
+    color: #044566;  
+    
+}
 .section-1 {
-    background-image: url(../img/sction.jpg);
+    background-image: url(../img/clothes4.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -16,7 +20,7 @@
     position: relative;
 }
 .t_d{
-    color:#000000;
+    color:#34495e;
 }
 .bg1{
     background-image: url(../img/Rectangle13980.svg);
@@ -58,25 +62,25 @@
 }
 
 .color-item {
-    color: #4A1714;
-    border-color: #4A1714;
+    color: #3ca9df;
+    border-color:#3ca9df;
 }
 
 .color-item i {
     border-radius: 5px;
     padding: 6px;
     color: #ffffff;
-    background-color: #4A1714;
+    background-color: #3ca9df;
 }
 
 .color-yallow {
-    color: #C89B2C;
-    border-color: #C89B2C;
+    color: #3ca9df;
+    border-color:#a5e0fd;
 }
 
 .color-bg {
     color: #ffffff;
-    background-color: #C89B2C;
+    background-color: #3ca9df;
 }
 
 
@@ -122,7 +126,7 @@
 }
 
 .img-3 {
-    background-color: #4A1714;
+    background-color: #fffefe 50%;
     position: absolute;
     width: 890px;
     height: 450px;
@@ -135,21 +139,23 @@
     border-radius: inherit;
     width: inherit;
     height: inherit;
-    opacity: 30%;
+    opacity: 60%;
 }
 
 
 /*part3*/
 .card {
-    border: none !important;
-    /* box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px; */
+    border: 1px;
+   background-color:#fffbfbd1 ; 
+   border-radius: 15px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
 
 }
 
 .send-color {
     width: 100px;
     color: white;
-    background-color: #C89B2C;
+    background-color: #34495e;
 }
 
 .card-clinet {
@@ -177,7 +183,6 @@
 
 .div-lay2{
     position: relative;
-    background-color: #4A1714;
     background-size: cover;
     border-radius: 20px;
     height: 80vh;
@@ -185,9 +190,11 @@
 
 .bg-img-lay3 {
     padding: 0;
+    border-radius: 20px;
+
     height: inherit;
     background-size: cover;
-    opacity: 40%; 
+    opacity: 90%; 
 }
 
 .lay4{
@@ -195,7 +202,7 @@
     position: relative;
 }
 .lay4 .text-center span{
-    color: #4A1714;
+    color: #3ca9df;
 }
 .bg-gary {
     border-radius: 100px 100px 30px 30px;
@@ -226,7 +233,7 @@
 
 .footer {
     color: white;
-    background-color: #131D24;
+    background-color: #34495e;
     border-radius: 20px 20px 0px 0px;
     overflow: hidden;
     position: relative;
@@ -286,4 +293,26 @@
 .card2{
     width: 270px;
     height: 225px;
+}
+.ps-4 {
+    padding-bottom: 26.5rem !important;
+    padding-right:3rem ;
+}
+.p-right{
+    padding-right: 30px;
+}
+   
+.btn-outline-primary:hover{
+           
+             background-color:#a4d9f378 ;
+        }
+        .bg{
+            background-color:#a4d9f378 ;
+        }
+        .btn-outline-primary {
+    color: #044566;  
+    border-color: #044566;
+}
+.bg1{
+    background-color: #a5b1b666;
 }
